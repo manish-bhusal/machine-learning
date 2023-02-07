@@ -14,6 +14,10 @@ Imagine you have a toy robot that can play games with you. When you play games w
 # Types of Machine Learning
 `1.` **Supervised Learning:**  In this type of learning, the computer is given a set of labeled examples and learns to predict the label for new, unseen examples. For example, you can give the computer a set of pictures of dogs and cats, and then ask it to classify a new picture as a dog or a cat.
 
+*(Labeled data has both the input and output parameters in a completely machine-readable pattern, but requires a lot of human labor to label the data, to begin with.)*
+
 `2.` **Unsupervised Learning:** In this type of learning, the computer is given a set of unlabeled examples and must find patterns or structure in the data on its own. For example, you can give the computer a set of customer data and ask it to group customers based on similar purchasing patterns.
+
+*(Unlabeled data only has one or none of the parameters in a machine-readable form. This negates the need for human labor but requires more complex solutions.)*
 
 `3.` **Reinforcement Learning:** In this type of learning, the computer learns by taking actions and receiving rewards or punishments. For example, you can give the computer a virtual game and ask it to learn how to play the game to maximize its score.
