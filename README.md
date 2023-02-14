@@ -21,3 +21,6 @@ Imagine you have a toy robot that can play games with you. When you play games w
 *(Unlabeled data only has one or none of the parameters in a machine-readable form. This negates the need for human labor but requires more complex solutions.)*
 
 `3.` **Reinforcement Learning:** In this type of learning, the computer learns by taking actions and receiving rewards or punishments. For example, you can give the computer a virtual game and ask it to learn how to play the game to maximize its score.
+
+
+**Read this post to learn** [Indexing and Slicing in NumPy Arrays](https://www.pythoninformer.com/python-libraries/numpy/index-and-slice/)
